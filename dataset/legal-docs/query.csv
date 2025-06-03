@@ -1,481 +1,868 @@
-query_id	query	query_class
-0	salon chair	Massage Chairs
-1	smart coffee table	Coffee & Cocktail Tables
-2	dinosaur	Kids Wall Décor
-3	turquoise pillows	Accent Pillows
-4	chair and a half recliner	Recliners
-5	sofa with ottoman	Sectionals
-6	acrylic clear chair	Dining Chairs
-7	driftwood mirror	Wall & Accent Mirrors
-8	home sweet home sign	Wall Décor
-9	coffee table fire pit	Outdoor Fireplaces
-10	king poster bed	Beds
-11	ombre rug	Area Rugs
-12	large spoon and fork wall decor	Wall Décor
-13	outdoor privacy wall	Fencing & Accessories
-14	beds that have leds	Beds
-15	black 5 drawer dresser by guilford	Dressers & Chests
-16	blk 18x18 seat cushions	Furniture Cushions
-17	closet storage with zipper	Storage Drawers
-18	chrome bathroom 4 light vanity light	Vanity Lighting
-19	gurney  slade 56	Chandeliers
-20	foutains with brick look	Wallpaper
-21	living curtains pearl	Curtains & Drapes
-22	light and navy blue decorative pillow	Accent Pillows
-23	stoneford end tables white and wood	End Tables
-24	wood coffee table set by storage	Living Room Table Sets
-25	sunflower	Wall Art
-26	leather chairs	Accent Chairs
-27	outdoor welcome rug	Door Mats
-28	rooster decor	Decorative Objects
-29	bathroom vanity knobs	Cabinet and Drawer Knobs
-30	3 1/2 inch drawer pull	Cabinet and Drawer Pulls
-31	burnt orange curtains	Curtains & Drapes
-32	dark gray dresser	Dressers & Chests
-33	non slip shower floor tile	Floor & Wall Tile
-34	bar stool with backrest	Bar Stools
-35	enclosed shoe rack	Shoe Storage
-36	laundry basket with wheels	Hampers & Baskets
-37	bar stool 24 inches height	Bar Stools
-38	calvin patio chair	Patio Lounge Chairs
-39	door jewelry organizer	Jewelry Armoires
-40	elegant executive chair	Office Chairs
-41	closet pull out valet rod	Closet Organizer Accessories
-42	toddler couch fold out	Kids Chairs
-43	solid teak end table	End Tables
-44	chrome shower head and valve	Shower Faucets & Systems
-45	70s inspired furniture	Wall Art
-46	beach blue headboard	Headboards
-47	porcelain loaf pan	Bread & Loaf Pans
-48	arwen table lamp	Table Lamps
-49	moen matte black hooks	Towel & Robe Hooks
-50	tufted chair with gold legs	Accent Chairs
-51	kohen 5 drawer dresser	Dressers & Chests
-52	westling coffee table	Coffee & Cocktail Tables
-53	carolyn console table	Sofa & Console Tables
-54	wayfair sleep zippered	Mattress Covers and Protectors
-55	tollette teal outdoor rug	Area Rugs
-56	royal blue counter height chairs	Bar Stools
-57	jordanna solid wood rocking	Patio Rockers & Gliders
-58	medium size chandelier	Chandeliers
-59	broadway lever	Door Levers
-60	capricorn chest	Dressers & Chests
-61	overstreet rustic pub stools	Bar Stools
-62	7qt slow cooker	Crock Pots & Slow Cookers
-63	monthly calendar	Memo Boards
-64	zachary 72.5	Bookcases
-65	gnome fairy garden	Garden Accents
-66	novara pergola	Pergolas
-67	osgood mirror	Wall & Accent Mirrors
-68	nautical platters	Serving Dishes & Platters
-69	wall sconce with usb port	Wall Sconces
-70	annex dresser	Dressers & Chests
-71	infant girl crib bedding	Crib Bedding Sets
-72	fold in half table	Folding Tables
-73	certified international melamine	Plates & Saucers
-74	serta kleinmon	Innerspring Mattresses
-75	sheffield home bath set	Bath Rugs & Mats
-76	46 inch closet door	Interior Doors
-77	sancroft armchair	Accent Chairs
-78	dorel vanity	Vanities
-79	palram harmony greenhouses	Awnings
-80	7 draw white dresser	Dressers & Chests
-81	orren ellis l shape desk	Desks
-82	bathroom vanity with counter space	Vanities
-83	wall art fiji	Wall Art
-84	full metal bed rose gold	Beds
-85	3/4 size mattress	Foam and Latex Mattresses
-86	aloe vera plant pot	Faux Plants and Trees
-87	vlad modular sectional	Sectionals
-88	rose gold lounge	Indoor Chaise Lounges
-89	whimsical solar lights	Landscape Lighting
-90	filaret outdoor sofa	Patio Sofas
-91	industrial pipe dining  table	Dining Tables
-92	antique silver entry table	Sofa & Console Tables
-93	outdoor sectional dining	Patio Sofas
-94	kohler whitehaven farmhouse kitchen sink	Kitchen Sinks
-95	entertainment stand end table	TV Stands & Entertainment Centers
-96	bar room wall decor	Wall Décor
-97	regner power loom red	Area Rugs
-98	gracie oaks 62 oller 14 ceiling fan	Ceiling Fans
-99	arched christmas tree	Christmas Trees
-100	tufted upholstered bed diamond	Beds
-101	48 in entry table with side by side drawer	Sofa & Console Tables
-102	flamingo	Garden Statues
-103	kitchen anti fatigue mats	Kitchen Mats
-104	flour and sugar containers	Canisters & Jars
-105	outdoor movie screen	Projector Screens
-106	bed risers	Bed Accessories
-107	front porch furniture sets	Outdoor Conversation Sets
-108	ayesha curry kitchen	Cookware Sets
-109	hillsby oriental rug	Area Rugs
-110	mila task chair	Office Chairs
-111	delta trinsic	Bathroom Sink Faucets
-112	pineapple	Decorative Objects
-113	led light strip	Under Cabinet Lighting
-114	geralyn upholstered storage platform bed	Beds
-115	peacock	Wall Art
-116	brockham solid blackout thermal grommet curtain panels	Curtains & Drapes
-117	tall storage cabinet	Office Storage Cabinets
-118	body pillow case	Sheets And Sheet Sets
-119	welcome sign	Outdoor Wall Decor
-120	zodiac pillow	Accent Pillows
-121	upholstered bed	Beds
-122	king size bed	Beds
-123	entrance table	Sofa & Console Tables
-124	unique coffee tables	Coffee & Cocktail Tables
-125	boho bed frame	Bed Frames
-126	leather dining chairs	Dining Chairs
-127	wine bar	Bars & Bar Sets
-128	block coffee table	Coffee & Cocktail Tables
-129	wainscoting ideas	Molding & Millwork
-130	entertainment console	TV Stands & Entertainment Centers
-131	kids chair	Kids Chairs
-132	farmhouse cabinet	Accent Chests / Cabinets
-133	outdoor light fixtures	Outdoor Wall Lights
-134	black hanging bookshelf	Bookcases
-135	low profile loveseat recliner	Sofas
-136	black fluffy stool	Accent Stools
-137	orren ellis l shaped desk	Desks
-138	glass doors for bath	Shower & Tub Doors
-139	auburn throw pillows	Accent Pillows
-140	wire basket with dividers	Boxes, Bins, Baskets, & Buckets
-141	podium with locking cabinet	Lecterns & Podiums
-142	kitchen wooden stand	Specialty Serving
-143	queen wingback chair	Accent Chairs
-144	rug plum	Area Rugs
-145	liberty hardware francisco	Cabinet and Drawer Pulls
-146	laundry vanity cabinet	Vanity Bases
-147	drum picture	Wall Art
-148	industrial	Wall & Accent Mirrors
-149	mid century modern	Dressers & Chests
-150	dumbbells	Free Weights
-151	leather chair	Accent Chairs
-152	wishbone chair	Dining Chairs
-153	bohemian	Area Rugs
-155	floating bed	Beds
-156	papasan chair frame only	Accent Chairs
-157	velvet chaise	Indoor Chaise Lounges
-158	led nightstand	Nightstands
-159	meditation	Decorative Objects
-160	marble	End Tables
-161	accent chair recliner	Recliners
-162	turquoise chair	Accent Chairs
-163	dual monitor stand	Computer Mounts
-164	modern outdoor furniture	Outdoor Conversation Sets
-165	kitchen storage shelves	Shelving & Racks
-166	feather wall art	Wall Art
-167	camper	Sheets And Sheet Sets
-168	printers	Carts & Stands
-169	coffee bar buffet	Sideboards & Buffets
-170	zen	Wall Art
-171	nectar queen mattress	Foam and Latex Mattresses
-172	picasso	Wall Art
-173	bedroom accessories	Bath Accessories
-174	star wars rug	Licensed Products
-175	basket planter	Planters
-176	mexican art	Wall Art
-177	rustic storage cabinet	Office Storage Cabinets
-178	almost heaven sauna	Saunas
-179	promo codes or discounts	Wall Art
-180	outdoor lounge cushions	Furniture Cushions
-181	e12/candelabra	Light Bulbs
-182	penny round tile	Floor & Wall Tile
-183	farmhouse bread box	Food Storage & Dispensers
-184	sugar canister	Canisters & Jars
-185	lunch bag	Picnic Baskets & Coolers
-186	board game storage cabinet	Office Storage Cabinets
-188	bedroom wall decor floral, multicolored with some teal (prints)	Wall Décor
-189	big basket for dirty cloths	Hampers & Baskets
-190	benjiamino faux leather power lift chair	Recliners
-191	biycicle plant stands	Plant & Telephone Tables
-193	belchertown table lamp	Table Lamps
-194	black frame 22 x 36	Picture Frames
-195	black freestanding tub  with faucet	Tubs And Whirlpools
-196	chabely 5 draw chest	Dressers & Chests
-197	desk for kids tjat ate 10 year old	
-198	cake plates with tops	Specialty Serving
-199	blue faux throw with pillows	Accent Pillows
-200	ceramic tile sea shell	Floor & Wall Tile
-201	delta trinsic double towel hook in champagne bronze	Towel & Robe Hooks
-202	full mattress padded liner	Mattress Toppers and Pads
-203	ge top loading washer 4.5	Washing Machines
-204	fleur de lis living candle wall sconce bronze	Candle Holders
-205	ines shag rug w003096809	Area Rugs
-206	grill cover 73	Covers & Carry Bags
-207	dull bed with shirt head board	
-208	"fawkes 36"" blue vanity"	Vanities
-209	door pulls bronze matte 4 inch	Cabinet and Drawer Pulls
-210	love seat wide faux leather tuxedo arm sofa	Sofas
-211	memory foam rug galveston	Bath Rugs & Mats
-212	nettie 5 pc bar set	Patio Bar Sets
-213	kraus kitchen sink faucet oletto kpf 2820 sfs	Kitchen Faucets
-214	light wood nightstand with silver accents	Nightstands
-215	king adjustable bed including mattress	Adjustable Beds
-216	music plug wall plate	Wall Plates
-218	wand bunk beds	
-219	trinaic towel rod	
-220	sheets for twinxl	Sheets And Sheet Sets
-221	small space dining table and chairs sets	Dining Table Sets
-222	small loving roomtables	
-223	wisdom stone river 3-3/4	Cabinet and Drawer Pulls
-224	twin over full bunk beds cool desins	
-225	white splashproof shiplap wallpaper	Wallpaper
-226	power lift chair	Recliners
-227	owl	Garden Statues
-228	bee	Glassware & Barware
-229	waterfall faucet	Bathroom Sink Faucets
-230	gold	Decorative Objects
-231	anti fatigue mat	Kitchen Mats
-232	storage dresser	Dressers & Chests
-233	kelly clarkson light fixtures	Flush Mount Lighting
-234	artificial orchid arrangement	Faux Florals
-235	bathroom wastebasket	Trash Cans & Recycling
-236	3 piece rug set with runners	Area Rugs
-237	cloud modular sectional	Sectionals
-238	outdoor seat/back cushion	Furniture Cushions
-239	bathroom single faucet	Bathroom Sink Faucets
-240	eiffel tower wall art	Wall Art
-241	decorative wall clocks	Wall Clocks
-242	accent leather chair	Accent Chairs
-243	indoor multi tiered plant stand	Plant & Telephone Tables
-244	pull out sleeper loveseat	Sofas
-245	anchor decor	Wall Décor
-246	clear shower curtain	Shower Curtains
-247	beaded curtains	Curtains & Drapes
-248	surge protector	Lighting Accessories
-249	bistro table and chairs	Patio Dining Sets
-250	multi color rug	Area Rugs
-251	coffee container	Canisters & Jars
-252	accent chairs living room	Accent Chairs
-253	antique brass faucet	Bathroom Sink Faucets
-254	comfortable accent chair	Accent Chairs
-255	desk and chair set	Office Chairs
-256	high weight capacity bunk beds	Kids Beds
-257	living room coffee table sets	Living Room Table Sets
-258	breakfast bar table	Dining Table Sets
-259	nursery end table	End Tables
-260	retractable side awning	Awnings
-261	semi flush foyer light	Flush Mount Lighting
-262	bathroom freestanding cabinet	Bathroom Storage
-263	small curtain rods	Curtain Hardware & Accessories
-264	cortez pillow	Accent Pillows
-265	candace wingback upholstered bed	Beds
-266	champagne velvet desk chair	Office Chairs
-267	dolomite subway tile	Floor & Wall Tile
-268	betty resin free standing umbrella	Patio Umbrella Stands & Bases
-269	donaldson teak couch	Patio Sofas
-270	edge chair mat	Chairmats
-271	chinese flower stand	Plant & Telephone Tables
-272	oliver parsons	Dining Chairs
-273	stainless steel free standing shower caddy	Shower & Tub Accessories
-274	gowdy height adjustable standing desk	Desks
-275	hinged square ottoman	Ottomans
-276	chaves l-shape floating desk with hutch	Desks
-277	barstool patio sets	Patio Bar Stools
-278	parakeet toy	Bird Play Stand & Playcenters
-279	marlon tufted queen bed	Beds
-280	johan desk by laurel foundry	Desks
-281	brunk ship wheel	Decorative Objects
-282	grantola wall mirror	Wall & Accent Mirrors
-283	gaia driftwood table	Dining Tables
-284	family lamp	Table Lamps
-285	"48"" sliding single track , barn door for laundry"	Barn Door Hardware
-286	hitchcock mid-century wall shelf	Wall Mounted Shelves
-287	cover set for outdoor furniture	Furniture Covers
-288	round outdoor patio cover	Furniture Covers
-289	coma inducer comforter king set	Bedding Sets
-290	mission double vanity	Vanities
-291	front door cabinet with doors	Accent Chests / Cabinets
-292	decorative white pillow	Accent Pillows
-293	wood floor protector mat	Chairmats
-294	moen multi function dual shower head	Shower Heads
-295	end table between recliners	End Tables
-296	zakariyah twin platform	Kids Beds
-297	seat cushions desk	Chair Accessories
-298	small woven pouf	Ottomans
-300	animal print handmade tufted wool beige/black area rug by allmodern	Area Rugs
-301	circle cabinet pulls	Cabinet and Drawer Pulls
-302	mattress foam topper queen	Mattress Toppers and Pads
-303	hawaii vintage art	Wall Art
-304	merlyn 6	Outdoor Conversation Sets
-305	ligth bulb	Light Bulbs
-306	mobley zero gravity adjustable bed with wireless remote	Adjustable Beds
-307	real touch roses floral arrangements in glass vase	Faux Florals
-308	led 60	Light Bulbs
-309	moen 5995 arbor one	Kitchen Faucets
-310	meade mirror	Wall & Accent Mirrors
-311	odum velvet	Sofas
-312	coat rack for bedroom	Coat Racks and Hooks
-313	malachi sled	Coffee & Cocktail Tables
-314	body pillow and case	Sheets And Sheet Sets
-315	medium clips	Uniters Outdoor Furniture
-316	rolande heavy duty power lift assist recliner	Recliners
-317	hulmeville writing desk with hutch	Desks
-318	sunjoy lantern	Outdoor Lanterns & Lamps
-319	landis wall mounted bathroom shelves	Bathroom Storage
-320	blaylock bookcase headboard	Headboards
-321	hussain handmade tufted magenta rug	Area Rugs
-322	cream queen duvet cover	Bedding Sets
-323	hub leaning full length mirror	Wall & Accent Mirrors
-324	chase utility laundry cart	Laundry Accessories & Storage
-325	outdoor waterproof chest	Deck Boxes
-326	bowersville ladder writing desk	Desks
-327	kohler purist brushed bronze	Bathroom Sink Faucets
-328	golub dining table	Dining Tables
-329	wayfair tension rod	Curtain Hardware & Accessories
-330	kari 2 piece	Outdoor Conversation Sets
-331	upholstered girls bed	Beds
-332	attleboro drum coffee table	Coffee & Cocktail Tables
-333	stainless steel colander set	Strainers, Colanders, & Salad Spinners
-334	itchington butterfly	Dining Tables
-335	canadian	Wreaths
-336	mystic swivel	Accent Chairs
-337	iittala bowl	Dining Bowls
-338	mahone porch rocking chair	Patio Rockers & Gliders
-339	ruckus chair	Accent Chairs
-340	berenice 4 storage cabinet	Office Storage Cabinets
-341	canvas map art	Wall Art
-342	brendon counter stool	Bar Stools
-343	navy and peach bedding	Bedding Sets
-344	ottoman bed queen	Ottomans
-345	oriental vanity	Makeup Vanities
-346	nesting tray set	Decorative Trays
-347	olive green console table	Sofa & Console Tables
-348	one alium way	Sofas
-349	mud room sign	Wall Décor
-351	white bathroom vanity black hardware	Vanities
-352	amarillo	Wall Art
-353	pennfield playhouse	Playhouses & Play Tents
-354	tressler rug	Area Rugs
-355	argenteuil	Wall Art
-356	platform bed side table	End Tables
-357	tall free standing pet gate	Pet Gates
-358	sliding closet mirror	Wall & Accent Mirrors
-359	french molding	Molding & Millwork
-360	huntsville sectional sofa	Sectionals
-361	kisner	Wall Art
-362	brushed gold wall decor	Wall Décor
-363	fortunat coffee table	Coffee & Cocktail Tables
-364	croscill ashton	Accent Pillows
-365	gas detector	Smoke & CO Detectors
-366	drudge report	Wall Art
-367	wooden chair outdoor	Patio Lounge Chairs
-368	pasta tools	Cooking Utensils
-369	wrought tv stand	TV Stands & Entertainment Centers
-370	rug for teen room	Area Rugs
-371	milk cow chair	Accent Chairs
-372	verden callan	Door Knobs
-373	togo chair	Accent Chairs
-374	sinks bed frame	Kitchen Sinks
-375	pastel pink desk chair	Office Chairs
-376	island estate coffee table	Coffee & Cocktail Tables
-377	glinda upholstered bench	Benches
-378	cliffside 5 light candle style drum chandelier	Chandeliers
-379	urban outfitters duvet	Bedding Sets
-380	gravity feeder	Dog and Cat Bowls, Feeders & Accessories
-381	farmhouse hood vent	Range Hoods
-382	counter top one cup hot water dispenser	Kitchen Faucets
-383	minnestrista	Wall Art
-384	dining table vinyl cloth	Dining Linens
-385	mom urn	Vases, Urns, Jars, & Bottles
-386	alter furniture	Outdoor Conversation Sets
-387	self enclosed planters	Planters
-388	outdoor sectional doning	Outdoor Conversation Sets
-389	brush nickel faucet bathroom	Bathroom Sink Faucets
-390	cushion replacement insert	Furniture Cushions
-391	"writing desk 48"""	Desks
-392	china clock	Wall Clocks
-393	propane gas dryer	Dryers
-394	gray leather cocktail table	Coffee & Cocktail Tables
-395	pantry grey	Pantry Cabinets
-396	alyse 8 light	Chandeliers
-397	maryford queen tufted bed	Beds
-398	super bright lights	Pendant Lights
-399	12v dirt bike	Ride-On Toys
-400	small ladies rocker swivel recliner	Recliners
-401	glass lsmp shades	Lighting Shades
-402	modern farmhouse lighting semi flush mount	Flush Mount Lighting
-403	wood rack wide	Log Storage
-404	large cushion outdoor chair	Furniture Cushions
-405	queen ann style living room chair	Accent Chairs
-406	refrigerator with ice an water in door	Refrigerators
-407	huge bookcase	Bookcases
-408	girl reading statue	Garden Statues
-409	teal chair	Accent Chairs
-410	pool floats	Lawn Games
-411	outdoor clock	Weather Instruments
-412	jennie tufted upholstered low profile platform bed	Beds
-413	burruss patio sectional with cushions	Outdoor Conversation Sets
-414	shower hooks	Shower Curtain Hooks and Accessories
-415	toilet paper stand	Toilet Paper Holders
-416	wayfair coffee table	Coffee & Cocktail Tables
-417	twin bed frame	Bed Frames
-418	writing desk	Desks
-419	living room ideas	Living Room Sets
-420	tile backsplash	Floor & Wall Tile
-421	dining room tables	Dining Tables
-422	ergonomic chair	Office Chairs
-423	wall shelves	Wall Mounted Shelves
-424	wayfair comforters	Bedding Sets
-425	side table with storage	End Tables
-426	outdoor storage	Deck Boxes
-427	lowes tile	Floor & Wall Tile
-428	kitchen storage cabinet	Pantry Cabinets
-429	gray dresser	Dressers & Chests
-430	30 inch bathroom vanity	Vanities
-431	shoe bench entryway	Shoe Storage
-432	butcher block island	Kitchen Islands
-433	trundle daybed	Daybeds & Guest Beds
-434	bathroom lighting	Vanity Lighting
-435	shoe closet	Shoe Storage
-436	full bed with trundle	Kids Beds
-437	kitchen islands with seating	Kitchen Islands
-438	indoor water fountain	Fountains
-439	parsons chairs	Dining Chairs
-440	wood bar stools	Bar Stools
-441	desk for kids	Kids Desks
-442	above toilet cabinet	Bathroom Storage
-443	patio design	Outdoor Conversation Sets
-444	outdoor lounge chair	Patio Chaise Lounges
-445	chaise lounge couch	Sectionals
-446	card table	Folding Tables
-447	tall buffet cabinet	Sideboards & Buffets
-448	bed side table	End Tables
-449	living room designs	Living Room Sets
-451	aiden black velvet bed	Beds
-452	day bed indian	Daybeds & Guest Beds
-453	midcentury tv unit	TV Stands & Entertainment Centers
-454	carpet 5x6	Area Rugs
-455	deer coat hooks	Coat Racks and Hooks
-456	wall design shelf	Wall Mounted Shelves
-457	5 gang light switch	Wall Plates
-458	bubble guppies chair	Dining Chairs
-459	tye dye duvet cover	Bedding Sets
-460	small wardrobe grey	Armoires & Wardrobes
-461	luau string lights	String Lights
-462	large bases	Patio Umbrella Stands & Bases
-463	bistro sets patio	Patio Dining Sets
-464	cake cutlery	Flatware Serving Pieces
-465	white abstract	Area Rugs
-466	rock climbing wall kids	Swing Set Accessories
-467	town & country living curtains	Curtains & Drapes
-468	glow in the dark silent wall clock	Wall Clocks
-469	garage sports storage rack	Bike And Sport Racks
-470	elephant framed	Wall Art
-471	adjustable height artist stool	Bar Stools
-472	window wall accent	Wall Décor
-473	chair pillow cushion	Furniture Cushions
-474	48 inch bathroom vanity with trough sink	Vanities
-475	rattan truck	Ride-On Toys
-476	hardwood beds	Beds
-478	worn leather office chair	Office Chairs
-479	garage door mail slot	Mailboxes
-480	pictures to hang over fireplace	Wall Art
-481	emma headboard	Headboards
-482	48 inch kitchen hood	Range Hoods
-483	rustic twig	Faux Plants and Trees
-484	nespresso vertuo next premium by breville with aeroccino	Espresso Machines
-485	pedistole sink	Kitchen Sinks
-486	54 in bench cushion	Furniture Cushions
-487	rack glass	Candle Holders
+query_id,query
+0,how do you find your federal tax account information
+1,how long are you allowed to take american opportunity credit
+2,retail method of pricing
+3,how to find out if someone is a dependent on a 1040
+4,who may represent the employer
+5,how to calculate student loan interest deduction
+6,how to claim personal items on 1099 k
+7,what is the child of a person who has the highest agi
+8,can you earn income in schedule se
+9,requirements for continuing education programs
+10,requirements for continuing education provider
+11,what is your credit score
+12,can parents claim a child as qualifying child
+13,what is the deadline for a decision to be entered by a administrative law judge
+14,how long does administrative law judge have to make his decisions
+15,how long does it usually take to get a social security number
+16,how to find out when your excess capital gains
+17,what is considered extended active duty for a military member
+18,requirements for continuing education
+19,do you have to report school to income for taxes
+20,who is the eligible small ethanol producer
+21,what is statement of fee information concerning matters in which costs may be incurred?
+22,which is a document not clearly identified as a supplement to or explanation of the taxpayer's primary presentation?
+23,what document was prepared based solely on ifrs
+24,what line do you do when you roll over roth distributions to another in roth IRA
+25,what is a's services budget funded by
+26,what is a's service budget funded through contributions from taxpayers
+27,how to apply for an enrolled retirement agent
+28,how to figure student loan deduction
+29,what's difference between gift check direct sales and direct sales
+30,who is a certified public accountant
+31,who is a certified public accountant
+32,when are supplemental charges filed
+33,what is a formal continuing education program
+34,how does one contact hour count as a complete program
+35,irs tax help phone number
+36,tce program phone number
+37,can i claim a credit on my income tax
+38,who is the owner of the payphones
+39,who owns payphones
+40,who can assist with preparing a tax return
+41,who can sign 1040 electronic return
+42,how to find out if your benefits are taxable
+43,how soon does a law judge have to enter a decision
+44,how soon does it take an administrative law judge's decision to enter a case?
+45,what section 332 does not apply to the liquidation of a subsidiary
+46,is section 332 applicable to liquidation
+47,who is responsible for providing copies of the federal agency decision to the authorized representative?
+48,who is a certified public accountant
+49,what is treas. reg  1.861-9t(e)(2)?
+50,is treas rule superfluous
+51,what is a federal tax matter
+52,what is the definition of federal tax matters
+53,can you include federal withheld tax on w-2g
+54,who is a tax preparer
+55,continuing education is not written advice
+56,do continuing education presentations provide advice on federal tax matters?
+57,who can represent employer
+58,pattern of conduct meaning
+59,how do i become a nonresident alien spouse
+60,how do you find out whether your spouse is a nonresident alien
+61,who can claim a child as a qualifying child
+62,can you take credit if your child was born in 2022
+63,internal revenue service memo number
+64,irs memo number
+65,can a practitioner advise clients to take a position on a document submitted to the irs
+66,when do you need to renew social security number
+67,can a practitioner advise a client regarding affidavits
+68,can i take education credit with my spouse on 2022 tax returns
+69,irs phone number to get tax help
+70,how to claim a dependent child
+71,when must a transaction be entered into for inclusion in a transaction
+72,how do you claim a dependent on social security
+73,how to report a personal loss on 1099 form
+74,what is pattern of conduct
+75,does continuing education include written advice
+76,if married filing jointly how much credit you have?
+77,irs phone number for tax preparation
+78,irs help for elderly
+79,phone number for tce irs
+80,who is designated as a registered tax preparer
+81,what is the purpose of registered tax preparer
+82,"when a request for a waiver is approved, the individual will be notified and issued a card or certificate evidencing renewal"
+83,when is this section applicable
+84,administrative judge authority
+85,what responsibilities do the administrative law judge have
+86,what is practice of enrolled actuary
+87,do spouses need an ssn to be in itin
+88,how is a qualifying child treated
+89,when can i request the irs to conduct a federal tax compliance check
+90,who represents the employer
+91,can an enrolled agent apply for a retirement plan?
+92,can dependents be credit on 1040
+93,where do you enter distribution on form 1099-r
+94,irs tax clinic for low income
+95,notice of appeal for administrative law judge
+96,what is a litc
+97,are franchises amortizable treas. reg
+98,is franchise intangible
+99,what is the credit for other dependents section of the 1040?
+100,can you owe a penalty on 2021 tax returns
+101,what is free software to do taxes
+102,what is free file
+103,irs requirements to be an enrolled agent
+104,how long does an administrative judge have to issue a decision
+105,what year can b purchases be reclassified as per-unit retains
+106,how should an advisor determine a client
+107,can a dependent take education credit
+108,irs 2022 taxable income
+109,do you have to provide your client with reasonable access
+110,are per unit a closed sale proceeds
+111,how to report digital assets
+112,how to report a digital asset
+113,how to report digital assets transaction
+114,is the line 15 taxable income
+115,what is irs line 15 taxable income
+116,irs tax form for 2022
+117,notice of appeal
+118,notice of appeal
+119,when did corporation sell synthetic fuel under agreement a
+120,what are the requirements for a continuing education program
+121,requirements to qualify for continuing education
+122,what is the treasury department requirements for continuing education programs
+123,are annuity distributions taxable
+124,"if a request for waiver is approved, the individual will be notified and issued a card or certificate evidencing renewal."
+125,when is an enrolled agent required to become enrolled agent?
+126,who is a registered tax preparer
+127,authority citation for 31 cfr
+128,can i figure the tax on the amount listed on line 5
+129,what is qualified continuing education program
+130,what is the rule for representing a former employee
+131,requirements for qualification of a continuing education program
+132,requirements for a qualified continuing education program
+133,can you claim child's interest and dividends on your tax return
+134,can internal revenue service conduct compliance checks in tax returns
+135,is education credits nonrefundable?
+136,what is your credit score
+137,internal revenue service memo number
+138,when is the procedure to ensure compliance required
+139,what is the right to the irs audit
+140,does spouse need ssn and itin
+141,how to claim children for social security
+142,how do i report a personal item loss on 1099 k
+143,who prepares tax returns
+144,who can prepare tax returns
+145,what can an individual do to help with a tax return
+146,how to enter a distribution on an ira form
+147,who must provide reasonable access to any additional records retained by the practitioner under state law that are necessary for complying with federal tax obligations?
+148,how to enter total distribution on 1099
+149,how to write distributions on 1099-r
+150,can spouses be nonresident aliens
+151,how long does it take an administrative law judge to enter a decision
+152,administrative law judge decision how many days
+153,what does pattern of conduct mean
+154,what is the definition of a pattern of conduct
+155,treasury practice as an enrolled actuary
+156,what is the purpose of continuing education presentations?
+157,are earned income credits non-refundable credit
+158,can dependents claim 1040
+159,what is otherwise barred from admission into evidence
+160,what is otherwise barred from admission into evidence
+161,a appraisal otherwise barred from admission into evidence may be admitted into evidence
+162,what is the case for coop b purchase proceeds
+163,do members of coop still have to agree to the b purchase
+164,administrative law judge powers
+165,what authority is given to an administrative judge
+166,can d stores redeem gift checks
+167,requirements of the treasury department continuing education program
+168,do you have to be married to file a jointly tax return
+169,can you file a 1040 with a digital signature
+170,what is pattern of conduct
+171,what is the pattern of conduct
+172,which closing agreement is not intended to apply to taxpayers and items to which it was never meant to apply?
+173,agi when can no parent claim a child
+174,who can claim a child who is a qualifying child
+175,how to subtract from 1040
+176,how to figure an amount on 1040
+177,what is considered a continuing education program
+178,what papers can you advise your client on
+179,can i advise clients in irs
+180,what is pattern of conduct
+181,what is pattern of conduct
+182,what is pattern of conduct
+183,which officer or employee will make a written report of the suspected violation and submit the report to the office(s) of the internal revenue service?
+184,how long does it take to get social security number
+185,what is the pattern of conduct
+186,what is pattern of conduct
+187,internal revenue service memo number
+188,numbers to 650 670 690
+189,what is the time frame for a decision of administrative judge
+190,how long does an administrative judge have to enter a decision
+191,what is a federal matter
+192,qualified higher education expenses include
+193,how to claim your premium credit
+194,how do i find out if i have a capital gain excess
+195,can a parent claim a child
+196,can someone claim a child as qualifying child without parent consent
+197,when advance payment must be recognized is a method of accounting when it is an entity approach
+198,do nonmoving parties have to respond to motions
+199,which right does the public have regarding the irs
+200,irs audit rights
+201,irs audit right to privacy
+202,which phase of pharmacokinetics is done in humans for safety and safety
+203,"how many are the numbers in 67,250"
+204,"when a waiver of enrollment is approved by the treasury department, the individual is issued a card evidencing renewal."
+205,what is litc
+206,are ira contributions deductible
+207,are ira contributions deductible
+208,can an employee represent anyone in a matter administered by the irs?
+209,internal revenue service memo release date
+210,irs memo release date
+211,internal revenue service memo release number
+212,when do you renew your social security numbers
+213,who has the right to redeem a gift card at any participating a restaurant
+214,who can prepare tax returns
+215,who may represent employer
+216,what checks should an applicant submit to the irs
+217,what is continuing education presented to an audience solely for the purpose of enhancing practitioners' professional knowledge on federal tax matters?
+218,does continuing education refer to federal tax matters
+219,does motion have to be filed by a nonmoving party.
+220,which party is not required to file a response to a motion?
+221,do nonmoving parties have to file their own response to a motion
+222,where to enter the amount for the loss on the 1099-k?
+223,how to report personal items on 1099?
+224,who can prepare a tax return
+225,who can assist a taxpayer with tax preparation
+226,which section does advance earned income exceed the employment tax due
+227,can an employer file a tax return on the coronavirus
+228,what forms can i fill out to claim premium tax credit
+229,do you have to subtract 1040 from 1040 sr
+230,how do i figure the amount on 1040
+231,requirements for qualified continuing education provider
+232,what are the requirements for continuing education programs
+233,what is the estimated tax for 2023
+234,which form is free file
+235,what file software is available for irs
+236,what to write on the wrong form 1099 k
+237,who may represent employer
+238,what type of program is a continuing education program?
+239,qualifications of continuing education programs
+240,qualification of continuing education program
+241,can i apply for an enrolled retirement plan agent
+242,who can apply to be an enrolled agent
+243,how much do married married heads of taxes need to file jointly on taxes
+244,what is your income tax if you are married and filing jointly
+245,can you claim child's interest and dividends on your tax return
+246,how long does it take to get a social security number
+247,how long to get an ssn for social security
+248,how long does it take to get ssn
+249,why use free file
+250,what is the irs free file
+251,what is litc clinic
+252,irs memorandum number
+253,irs memorandum number release date
+254,how does a complaint get serviced
+255,how to report digital asset transactions
+256,define enrollment cycle and registration year
+257,when is a person considered to have lived with you
+258,how do i claim my dependent children on social security
+259,how to claim dependent child
+260,which of these requires the practitioner to provide reasonable access to client files
+261,what is the practice of an enrolled actuary?
+262,what is practice as an enrolled actuary
+263,when was the simplified method used when the annuity started
+264,what is the practice as an enrolled actuary
+265,which section of the appraisal code provides the authority to impose monetary penalties on an appraisal?
+266,when do you need to renew social security number
+267,"what number is 67,350"
+268,how to establish the facts of the engagement
+269,can i claim a child who didn't live with me for more than half of 2022?
+270,what is required to sign a 1040 return
+271,how long can an asset amortize
+272,who can be a registered tax preparer
+273,who is designated as a registered tax preparer
+274,do puerto rican resident have to file tax return
+275,how does retail method determine retail price and cost
+276,how many americans use free file
+277,what is free software used for taxes
+278,when will a registered retirement preparer become enrolled agent
+279,when is subpart b of the treasury department effective?
+280,how to be an enrolled plan agent
+281,how to apply for an enrolled retirement
+282,can self employed person get a sick leave tax credit
+283,notice of appeal
+284,what does notice of appeal include
+285,what to include in notice of appeal
+286,can dependents claim foreign tax credit
+287,what schedule can claim earned income credit for dependents
+288,how to enter personal item in 1099 k
+289,when does the administrative law judge have to enter a decision?
+290,how long does an administrative law judge have to make a decision?
+291,who can prepare tax returns
+292,how to do 1099 r distribution on my 1099
+293,who may impose a monetary penalty
+294,office of chief counsel internal revenue service memo release number
+295,internal revenue service memo release number
+296,internal revenue service memo release date
+297,what is low income tax clinic
+298,what is litc
+299,requirements for continuing education
+300,what is the treasury department requirements regarding continuing education?
+301,who can claim qualifying child
+302,how to file joint return for spouse
+303,when will supplemental charges be filed
+304,are ira contributions deductible
+305,are annuity payments taxable next year
+306,how long does it take to get an ssn number
+307,how long does it take to receive social security number
+308,what are the requirements for continuing education
+309,are continuing education programs required by the treasury department
+310,what is the requirements for continuing education programs
+311,what is litc
+312,who can become enrolled agent
+313,"how many are the 9,000"
+314,when selling a personal item do i put the loss amount on the 1099
+315,what form does one submit for a personal item at a loss for 1099
+316,what is the nonmoving party required to file
+317,which method is considered complete upon mailing
+318,what is the proper method of service for a complaint
+319,do you deduct rollover contributions from ira
+320,what is the purpose of the acquisition in the present case?
+321,which method is considered to be complete upon mailing?
+322,do partnership adjustment agreements apply to tax attributable items?
+323,what is part 10 authority citation
+324,what is the authority citation for 31 cfr
+325,how to cite 31 cfr part 10
+326,is b purchase price a per unit retain?
+327,is an itin required for spouse
+328,notice of appeal must include
+329,notice of appeal must state what to do to the administrative law judge
+330,what is a certified public accountant
+331,what is the ultimate purpose of a stock option
+332,is a proposed irm paragraph legally sufficient
+333,are irms provisions legally adequate
+334,who can advise clients on affidavits for internal revenue services
+335,can married couple file jointly and jointly
+336,how long does it take to get an ssn number
+337,how long does it take to receive ssn from social security
+338,what is the purpose of continuing education presentations?
+339,treasury regulation a related person for the fair market value method by referring to
+340,what's the treasury department's cite authority in 31 cfr
+341,what is the right of taxpayers to know when irs audit has been done
+342,how to subtract 1040 form
+343,how do i find the amount on the 1040 sr form
+344,what is the qualification for continuing education
+345,what is the qualification for continuing education
+346,can the s corp deduct premiums on wages
+347,who should be enrolling as a retirement plan agent or enrolled agent
+348,can you file 1040 free file for irs
+349,can an individual prepare a tax return
+350,who must be compensated for the preparation of your tax return
+351,what is a federal tax matter?
+352,when should i assess whether a practitioner has failed to comply with this section?
+353,"when determining a practitioner has failed to comply with this section, the practitioner"
+354,who must provide the client with reasonable access
+355,what are the administrative law judges powers
+356,requirements for continuing education program
+357,are continuing education programs required
+358,who must provide the client with reasonable access to records of the practitioner under the state law that are necessary for complying with federal tax obligations.
+359,how to figure student loan interest deduction
+360,can you take credit for a child who doesn't live with you
+361,"who can advise a client on a document, affidavit or other paper"
+362,can an irs practitioner advise a client
+363,are advance payments included in income
+364,can an appraisal be accepted as an evidence for the taxpayer
+365,who provides copies of agency decision to authorized representatives of the irs
+366,what documents are included in the file for irs
+367,who can assist in the preparation of a tax return
+368,who can practice with irs
+369,who can represent an employer
+370,are family leave tax credits available to self employed
+371,can self employed claim sick and family leave
+372,"if a taxpayer fails to demonstrate a direct nexus between the purpose of the payment and the taxpayer's business or income producing activities, then the deduction will not be allowed."
+373,"if the taxpayer fails to demonstrate a direct nexus between the purpose of the payment and the taxpayer's business or income producing activities, the deduction will not be allowed."
+374,can andas be transferred
+375,when can a registered tax preparer renew
+376,does a spouse have to have an itin number
+377,which alien must have itin for spouse
+378,how to claim child as dependent
+379,requirements for a continuing education program treasury
+380,who must provide reasonable access to client records
+381,which document is required to provide a practitioner with reasonable access to
+382,do tax practitioners have reasonable access to client records
+383,are continuing education presentations considered financial advice
+384,what right does irs have
+385,what is right irs audit
+386,how many days does it take for fda to approve an anda
+387,what is considered extended active duty
+388,who can represent employer
+389,what is the authority citation for treasury circular no. 230
+390,treasury department cfr authority
+391,when does administrative law judge enter decision
+392,how soon after an administrative hearing should a decision be entered
+393,certified public accountant definition
+394,"when notice is filed, the claimant immediately has a right against those earnings held by the public agency. in effect, the filing imposes a trust obligation on the public agency."
+395,"when a stop notice is filed, the claimant immediately has a right against those earnings held by the public agency."
+396,what is the irs audit rights
+397,what is the right for irs audits
+398,what is the right to an irs audit
+399,"when a practitioner advises a client on a paper, the irs must"
+400,how to qualify for continuing education program
+401,how much tax is married married hold
+402,how much is married married jointly
+403,how do i pay by phone
+404,office of chief counsel irs memorandum number
+405,internal revenue service memorandum number
+406,who is a tax preparer
+407,who is designated as a registered tax return preparer?
+408,"if spouse is nonresident alien, who does spouse need an ssn"
+409,who needs to have an ssn and itin?
+410,what is a federal matter
+411,which was the issue of infringement and validity of the pleadings?
+412,can i claim foreign income tax credit or educational credit for other dependents
+413,how can my spouse be alien
+414,if spouse is nonresident alien do husband have ssn or iti
+415,how to credit dependents
+416,is per unit retain a purchase
+417,are ira contributions deductible
+418,when to check if the credit for other dependents is for person
+419,how to check credit for dependents
+420,how can i claim a child on social security
+421,who is the practitioner who fails to comply with this section
+422,how long does it take for administrative law judges to enter a decision
+423,when to make decision administrative law judge
+424,why should the administrative law judge enter a decision
+425,administrative judges powers
+426,are inventories disclosed on balance sheet
+427,when can a taxpayer disclose the value of inventories
+428,can a taxpayer disclose an inventory
+429,can an enrolled agent apply for qualified retirement plan
+430,who is an enrolled agent of a retirement plan
+431,do non moving parties file a response to an administrative motion?
+432,what if the nonmoving party is not required to file response to motion?
+433,what is a certified public accountant
+434,is csed expired
+435,what is the estimated tax amount for 2023
+436,irs how to find out if someone is your dependent
+437,what is the credit score of a married filing jointly
+438,how to report digital assets
+439,treasury department rules on practice as an enrolled actuary
+440,irs phone number for elderly
+441,irs tax help number
+442,who is certified public accountant in us?
+443,are continuing education presentations considered written advice
+444,what is the purpose of continuing education presentations
+445,can an irs practitioner advise a client
+446,what is a litc
+447,"when will the irs have to notify the proper authorities of state by which the censured, suspended, or disbarred person was licensed to practice?"
+448,"what is the postf number for case development, hazards and other conditions?"
+449,what tax deduction does the stock options section 421 allow
+450,does statutory stock options tax
+451,statutory stock option deduction
+452,can non-moving party file a response
+453,is a tax credit available after 2021
+454,do you need a ssn to file itin for a spouse?
+455,how do i make credit for other dependents
+456,what is the credit for other dependents section of 1040
+457,what is the time of suspension for a practitioner under the Internal Revenue Service?
+458,is cost plus a taxable contract
+459,can an irs applicant be an enrolled agent for qualified retirement planning
+460,what kind of right do taxpayers have when audited by irs
+461,what is the right of the irs
+462,"when a federal tax application is submitted, internal revenue service will do it"
+463,who is entitled to ftc for tp fsc
+464,can fsc be subject to ftc
+465,how do you sign 1040 forms electronically
+466,how to find out if you have excess capital gain
+467,what is a federal matter
+468,which is an additional risk caused by the practitioner’s lack of knowledge of the taxpayers specific circumstances?
+469,what is credit score for married filing jointly
+470,what is the practice of an enrolled actuary
+471,how to claim child as qualifying child
+472,when do i need to renew social security numbers
+473,what is the pattern of conduct
+474,"67,250-67,350"
+475,"what number is 67,300"
+476,who is a certified public accountant
+477,what occurs in a patent case when a discovery is to a product that cannot be marketed without substantial testing and regulatory approval?
+478,if you are married filing jointly
+479,when is an enrolled agent required to become an enrolled agent?
+480,can distributions from an able account be taxable
+481,when distributions from an able account are taxable
+482,irs tax tce phone number
+483,when should annuity starting date be simplified
+484,when do you use the simplified method for annuities
+485,how do you find out if you have extra capital gain
+486,how can i determine if there is a capital gain excess in my business
+487,when does the administrative law judge enter the final decision in a case?
+488,internal revenue service memo release
+489,when does an agent have to renew social security number
+490,how to enter schedule d income tax
+491,why is the anda a safe harbor
+492,"how many is 67,250"
+493,who has to provide copies of the agency decision to an authorized representative of the internal revenue service?
+494,notice of appeal must include
+495,can i deduct ira contributions for the spouse
+496,what signature is required to file taxes electronically
+497,who prepares a tax return
+498,how long does it take to get ssn
+499,how long does it take to get an ssn?
+500,how long does it take to get a ssn
+501,what is the internal revenue service memo number
+502,irs memo number
+503,who should provide clients reasonable access to records
+504,what is the practice of being an enrolled actuary
+505,which section 401 is a statutory provision for an enrolled actuary?
+506,how to determine gift card liability
+507,determining outstanding gift cards is
+508,is a continuing education presentation considered written advice?
+509,why are continuing education presentations not considered written advice on a federal tax matter?
+510,can you include non taxable combat pay in an ira
+511,which party has the right to a full and true disclosure of the facts?
+512,which form must i send for an identity protection pin?
+513,what is free file
+514,how much is a married married head of filing for a jointly
+515,how long to sell gift checks
+516,can i claim a parent as a dependent
+517,how to report digital assets
+518,can a working capital note be a contribution to capital
+519,are season tickets a property
+520,what is the law on season ticket renewal
+521,do i pay premiums yourself or a corporation
+522,what is the federal tax matter
+523,what year to reclassify per unit retained
+524,what is the practice of an enrolled actuary?
+525,are married married married filing a jointly
+526,who may offer a consent for sanction
+527,who can offer consent to be sanctioned
+528,do you need to file a tax return for puerto rican
+529,irs phone number for assisting elderly
+530,tce tax help phone number
+531,telephone number to irs to help with taxes
+532,internal revenue service memo release date
+533,what is required to renew an inactive status
+534,are members of an llc personally liable
+535,which section provides an example of a condition of readiness and availability?
+536,can i advise irs on tax documents
+537,is ha funds taxable in trust
+538,are equity accounts taxable
+539,internal revenue service gov catalog number
+540,"if you paid qualified expenses for yourself or your dependent in 2022 for yourself, your spouse, or your dependent, you may be able to take an education credit -line 3 - in your taxes"
+541,what is the enrolled agent requirement for qualified retirement plan
+542,when can i apply for an enrolled plan agent
+543,what is pattern of conduct
+544,pattern of conduct definition
+545,what is the form for reporting personal items at a loss in tax returns
+546,what is the purpose of continuing education presentations
+547,can you exclude long term care insurance from your income
+548,who is a registered tax preparer
+549,who is a tax preparer
+550,"when a requested waiver is approved, the individual will be notified and issued a card or certificate evidencing renewal of enrollment or registration."
+551,"which condition is described in paragraph c)? if employer is a general partner who is a general partner, who is a general partner? if employer is a general partner, which condition is described as"
+552,when can you claim a person that has lived in your home for all of 2022
+553,who is irs designated as a registered tax preparer
+554,administrative notice of appeal brief
+555,what is litc clinics
+556,what is a litc
+557,what was the first successful industry n company
+558,how do i claim a child based on their social security
+559,how does the authority citation for 31 CFR
+560,definition of a federal tax matter
+561,can married married jointly file
+562,what irs form is filed for dual status alien and nonresident alien
+563,when is internal revenue service decision effective
+564,who can legally represent anyone in an internal revenue matter
+565,eic credit status table
+566,how to make 1099 distribution on ira
+567,who can represent an employer
+568,when can no child be claimed as a qualified child on the agi
+569,is support a child provided by parent
+570,who is a certified public accountant
+571,which subpart is applicable to protests under this section
+572,internal revenue service memo number release
+573,what is the federal tax compliance check
+574,when to use the simplified method on annuity
+575,x's transaction costs are de minimis
+576,de minimis transaction costs
+577,is x transaction costs capitalized
+578,when do exchanged properties go within the same product class?
+579,who is a certified public accountant
+580,who is a certified public accountant
+581,how to figure student loan interest deduction
+582,can you contribute to capital on mega credits
+583,treas reg. no contribution to capital
+584,does mega contributions qualify as contributions to capital
+585,are contributions to ira deductible
+586,is ira contribution deductible
+587,irs line 15 taxable income
+588,who determines if an appraisal was otherwise barred from admission into evidence?
+589,what is the law regarding advising a client on affidavit
+590,what is the rules for representing a former government employee in the irs?
+591,irs contact number for elderly
+592,how to become a retirement plan agent
+593,what is taxable income on line 15 of taxes
+594,irs tax help phone number
+595,irs telephone numbers for seniors
+596,what is pattern of conduct
+597,pattern of conduct definition
+598,pattern of conduct definition
+599,what does pattern of conduct mean
+600,who is designated as registered tax preparer
+601,who is designated as a registered tax preparer?
+602,how much tax do you pay to someone married to jointly
+603,how to qualify for continuing education degree
+604,how to file an electronic return online
+605,what is free file
+606,what is the purpose of continuing education presentations?
+607,can a s corp deduct premiums
+608,internal revenue service memos release date
+609,what is pattern of conduct
+610,what is the pattern of conduct
+611,pattern of conduct definition
+612,what is federal tax matters
+613,how to check for other dependents on 1040
+614,treasury department authority citation
+615,treasury department cfr authority citations
+616,who can apply for enrolled retirement plan agent
+617,who can be designated as a tax preparer
+618,who is the married married head of the filing tax
+619,how much are married married couples tax
+620,who are registered tax preparers
+621,who are registered tax preparers
+622,who is designated as a registered tax return preparer
+623,how long does it take for someone on social security card to get a name and ssn
+624,"how many are in 67,350"
+625,can you owe a penalty for 2021 taxes
+626,how long does it take to obtain a ssn from social security
+627,internal revenue service memo release number
+628,who must qualify for the required continuing education program
+629,requirements for a continuing education program
+630,statement of fee information concerning matters in which costs may be incurred must include
+631,what is the purpose of bea payments
+632,notice of appeal in the treasury
+633,notice of appeal must include
+634,who may represent employer
+635,what qualifies as a continuing education program
+636,"67,350 how many"
+637,what is the definition of a child in 2022
+638,what is the form to report a digital asset
+639,how to report a digital asset
+640,where can i find credit for other dependents on 1040
+641,who is certified public accountant
+642,what is the earned income credit (eic) table
+643,can an s corporation deduct insurance premiums
+644,when can i file 1040
+645,who is a registered tax preparer
+646,who is a registered tax preparer
+647,how much credit to file jointly if married
+648,can i claim the sick and family leave credit for a self employed person
+649,what is qualification for continuing education
+650,what is the qualification for continuing education programs?
+651,can the irs advise a client
+652,what is the qualification for continuing education? what are the requirements for a formal program
+653,which qualification qualifies as a continuing education program
+654,what qualifies as continuing education
+655,who is registered tax preparer
+656,is an individual designated as a registered tax preparer by the irs
+657,how do you pay electronically
+658,how to pay by phone
+659,what are the rights of taxpayers
+660,what is the right of taxpayers to be informed when the irs has completed an audit
+661,who is responsible for filing a frivolous return
+662,who filed frivolous return
+663,how long to get ssn
+664,irs line 15 taxable income
+665,what are the qualifications for continuing education programs
+666,what is the requirement for continuing education
+667,how much do married couples hold on taxes
+668,how much tax is married married married
+669,what is the credit for other dependents on forms 1040-SR
+670,how many numbers in 449
+671,can self employed individual claim sick and family leave
+672,who is designated as a registered tax preparer under irs
+673,what is the purpose of continuing education presentations?
+674,internal revenue service memo release number
+675,internal revenue service memo release number
+676,who is required to file timely applications for renewal of enrollment or registration
+677,how to extend statute of limitations for trusts
+678,what form to use to extend statute of limitations
+679,what is considered extended active duty
+680,can you do an itin on a qualifying relative
+681,whats the credit score i have if married filing jointly
+682,do subsidiaries have the discretion to deviate from corporate guidelines
+683,when is a suspended or disbarred person required to give notice to the proper authorities of the state by which they were licensed to practice
+684,who is represented in this paragraph (c)(1)
+685,is married filing jointly credit score
+686,requirements for continuing education
+687,requirements for continuing education program
+688,internal revenue service memorandum number
+689,who determines which appraisal is admitted into evidence
+690,what is the box on page 1 of 1040 for credit for other dependents
+691,can you claim a child on social security
+692,what authority citation is for treasury department circular no. 230
+693,treasury department authority citation
+694,can i claim dependent child on tax return
+695,who is a certified public accountant
+696,"when should i give notice to proper authorities of the state by which a censured, suspended, or disbarred person was licensed to practice?"
+697,which court stated that the right to use a property was commonly regarded as rent
+698,who is subject to this section
+699,what is the practice for an enrolled actuary
+700,is an enrolled actuary limited practice
+701,can nonmoving party file a response to a motion
+702,if nonmoving party does not respond do they file response
+703,how to find out if you have a capital gain excess
+704,how do you find out if you have a capital gain excess
+705,if married filing jointly your credit number
+706,are client records required for federal tax purposes
+707,do practitioners retain records of a client
+708,how to subtract 1040 on 1040-SR
+709,how to claim dependent ssn
+710,can i claim my child as a qualifying child
+711,when does llc qualify as ethanol producer
+712,how to pay by the phone
+713,what is the fda requirement for andas
+714,can you have the same ssn as nonresident alien
+715,irs line 15 taxable income
+716,who does tax preparer do
+717,who is designated for registration as a tax preparer
+718,when is discovery not authorized
+719,does section 332 apply to liquidation of shares?
+720,did petitioners claim a loss due to a liquidation of the common shares
+721,office of chief counsel internal revenue service memorandum number
+722,is foreign financial assets taxable income for bankruptcy
+723,when to use simplified method if you have annuity
+724,irs memo release date
+725,irs memo release number
+726,internal revenue service memo release number
+727,treasury department authority citation
+728,who is employer
+729,how to determine if you have a capital gain
+730,how to determine if you have a capital gain excess
+731,what is the statement of fee information concerning matters in which costs may be incurred
+732,when can an employee represent someone in a matter administered by the irs
+733,what is the practice of enrolled actuary
+734,what financial assets are taxable to the bankruptcy estate
+735,what checks must irs conduct
+736,"if a request for waiver is approved, an individual will be notified and issued a card or certificate evidencing renewal of registration or enrollment."
+737,what are the irs auditing rights
+738,what is the right for taxpayers to know when the irs audits have been done?
+739,is married married filing jointly
+740,how do you determine if you have a capital gain
+741,who can admit appraisals for evidence
+742,what is the authority of an administrative law judge
+743,what is the power of an administrative law judge?
+744,what powers does an administrative law judge have
+745,why do practitioners exercise due diligence
+746,can the practitioner access client files
+747,when are supplemental charges filed
+748,can you deduct the premiums for health insurance
+749,can an s corp deduct premiums
+750,how to write total distribution in 1099 r
+751,notice of appeal to administrative law judge
+752,what is the notice of appeal to administrative law judge
+753,can i use the simplified method of annuity
+754,who can prepare tax returns for a tax return
+755,can someone prepare a tax return
+756,can a tax return preparer be a witness
+757,treasury department requirements for continuing education provider
+758,requirements for continuing education
+759,are continuing education programs required for qualified individuals?
+760,how to report digital asset
+761,notice of appeal brief
+762,how do you determine whether you have capital gains on taxes
+763,how is the irs conducting a federal tax check
+764,which checks are conducted for irs compliance
+765,when married married filing taxes
+766,what is the right of the irs
+767,why do taxpayers have the right to privacy when audits with the irs
+768,when is subpart b of the treasury department regulations effective
+769,what is included in the cost for keeping up a home
+770,how soon after a hearing does the administrative law judge enter a decision?
+771,can i deduct ira contributions for my spouse
+772,how do I find out the credit for other dependents on my 1040 form
+773,what form do i need to report digital assets
+774,what is considered a continuing education program
+775,what is the federal tax matter for a practice
+776,what is the estimated tax for 2023
+777,what is the purpose of continuing education presentations
+778,continuing education is not written advice on a federal tax matter
+779,what the irs audit right
+780,when is this section effective
+781,what is the power of an administrative law judge
+782,what powers does the administrative law judge have
+783,which agency may conduct a federal tax check and suitability check?
+784,if you are married and you are filing a jointly
+785,fda approved drugs anda requirements
+786,how to qualify for continuing education
+787,how to stop credit on 1040 form
+788,how to subtract 1040 on form
+789,how to subtract 1040 from 1040 sr
+790,how do you deduct student loan interest
+791,when do enrolled agents become eligible
+792,when should i give notice to the appropriate authorities of the state by which a suspended or disbarred person was licensed to practice?
+793,what is the practice of an enrolled actuary
+794,how to deduct student loan interest
+795,who may offer consent to be sanctioned under 10.50?
+796,requirements for continuing education provider
+797,requirements for qualified continuing education program
+798,what requirements are required to develop a continuing education program
+799,who is a certified public accountant
+800,what is the practice of an enrolled actuary limited to?
+801,which right has been given to taxpayers regarding irs audits
+802,how does the government protect the rights of taxpayers and irs
+803,who is a registered tax preparer
+804,who can be designated as a registered tax preparer
+805,what distributions should be included with annuity payments
+806,are annuity distributions included on a form 1099
+807,can continuing education credits be used for active roster
+808,do ira contributions to my ira have to be deductible
+809,are ira contributions deductible
+810,which circuit denied the existence of a constitutional right under the laws of arizona
+811,internal revenue service memo number
+812,internal revenue service memorandum number
+813,irs audit audit right to privacy
+814,what rights do taxpayers
+815,when gift card redemption is recorded as a debit
+816,is ira contributions deductible
+817,is ira contribution deductible
+818,what is the correct way to find out if you have a capital gain excess
+819,how to determine if you have a capital gain excess
+820,when is this section of the law applicable
+821,how to find out if you have a capital gain
+822,how to find out if you have a capital gain excess
+823,what are the right to know when the irs has finished an audit?
+824,what qualifies as continuing education?
+825,what qualifies as a continuing education program
+826,is signature valid when filed electronically
+827,when must you report a digital asset transaction
+828,which section of the treasury regulations relates to closing agreements?
+829,how much credit do you have when married filing jointly
+830,can a parent claim you as a dependent under multiple support
+831,which section of the irs specifically provides that there shall be allowed as a deduction for losses sustained during the taxable year
+832,treas. reg. no fees at issue were incurred in obtaining a patent for any research and development
+833,if the nonmoving party files no response to a motion
+834,what are the rights of the irs?
+835,which rights does the irs have
+836,what is the pattern of conduct
+837,pattern of conduct definition
+838,what are the qualifying programs
+839,what is the table for earned income credit?
+840,what day does administrative law judge enter decision
+841,what is the free file for taxes
+842,irs free file
+843,is itin a qualifying child
+844,how long does it take to get your social security number
+845,can i claim a foreign income tax credit
+846,when does a practitioner exercise due diligence
+847,is accrued interest deductible
+848,can interest deducted on notes be deductible
+849,what is the number to 650 670
+850,what does administrative law judge do in court
+851,what was clear was that some of the feedstock coal was run through r.
+852,what was clear was that some of the feedstock coal was run through r.
+853,what is low income tax clinic?
+854,what is a litc
+855,who can prepare taxes for compensation
+856,who is responsible for the preparation of the tax return
+857,administrative law judge powers
+858,how to claim premium tax credit on form
+859,does spouse need ssn
+860,what is the practice as an enrolled actuary
+861,what evidence is there of the intent to reclassify
+862,what is the only evidence of the intent to reclassify
+863,what is the purpose of continuing education presentations
+864,what is continuing education presentation for tax practitioners
+865,does the irs perform a federal check
+866,who conducts federal tax compliance checks
