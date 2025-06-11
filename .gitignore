@@ -7,6 +7,8 @@ __pycache__/
 # Pytest cache
 .cache/
 
+resources/data/documents/**
+resources/data/embeddings/**
 
 # personal account configuration files
 .env.iva

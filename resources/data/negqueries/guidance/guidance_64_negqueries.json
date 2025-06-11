@@ -1,0 +1,40 @@
+{
+  "doc_id": "guidance_64",
+  "category": "guidance",
+  "chunks": [
+    {
+      "id": "guidance_64__0",
+      "chunk_id": "0",
+      "content": "U.S. Department of Justice\nCivil Rights Division U.S. Department of Educati on\nOffice for Civil Rights White House Initiative on\nAsian Americans and Pacific Islanders Combating Discrimination Against AANHPI and MASSA Students\nThe U.S. Department of Justice\u2019s Civil Rights Division (CRT) and the U.S. Department of Education\u2019s Office for Civil\nRights (OCR) enforce federal civil rights laws in public and federally funded schools at all educational levels. These laws\nprotect all students, including Asian American, Native Hawaiian, and Pacific Islander (AANHPI) and Muslim, Arab, Sikh,\nand South Asian (MASSA) students, from discrimination based on race, color, and national origin (including language and\nshared ethnic characteristics ). CRT also enforces prohibitions on religious discrimination in public schools. Schools must\ntake immediate and appropriate action to respond to complaints of discrimination, including harassment or bullying based\non race, color, national origin, or religion. The following are examples of action, or in some cases inaction, by school\nofficials that could violate the laws enforced by CRT or OCR: \uf0b7 A Korean-American student tells her principal that a\ngroup of Korean students has repeatedly stolen her\nAsian history textbook and said that she is not a \u201creal\nKorean\u201d because she only speaks English. The\nprincipal tells her that because the students who are\nbothering her are also Korean, it was probably a\nmisunderstanding among friends and takes no action. \uf0b7 \uf0b7 During a lesson about 9/11, classmates of a Muslim\nmiddle school student call him a terrorist and tell him to\ngo back to his country. The teacher tells the class that\nonly some Muslims are terrorists, and asks the student\nwhy Muslims have not denounced the terrorist attacks\nof 9/11. The student complains to a school official about\nthe statements by his teacher and classmates, but the\nschool official take no steps to respond. A Sikh student wears his turban to school. A teacher\ntells the student he needs to remove the turban for his\nown safety, given recent violence targeting Muslims in\nthe region. The student informs the teacher that he is\nSikh. When he refuses to remove his turban, he is\nsuspended. \uf0b7 \uf0b7 A high school provides English learner (EL) services\nonly to EL students who speak Spanish. When Punjabispeaking students inquire about EL services to assist\nthem with their advanced placement (AP) classes, the\nprincipal tells them that they cannot both receive EL\nservices and take AP classes. A student from China receives an out-of-school\nsuspension for violating the school\u2019s code of conduct. Before meeting with the assistant principal to discuss\nthe suspension, the student\u2019s parent requests an\ninterpreter, but school administrators do not arrange\nfor one. When the parent arrives for the meeting, there\nis no interpreter and the assistant principal proceeds\nwith the meeting. \uf0b7 A group of Asian students is hit and taunted every week\nin gym class by other students who say, \u201cAsians are\nsupposed to be good at math\u2014not basketball.\u201d When\nthey complain to the teacher, they are told that the best\nresponse is to ignore the other students and to focus on\ndoing better in gym class.",
+      "queries": [
+        "what division of the department of education is civil rights",
+        "which department has civil rights initiatives",
+        "european globalisation adjustment fund"
+      ],
+      "queries_score": [
+        "2.4959323",
+        "1.9425402",
+        -7.857121467590332
+      ]
+    },
+    {
+      "id": "guidance_64__1",
+      "chunk_id": "1",
+      "content": "When\nthey complain to the teacher, they are told that the best\nresponse is to ignore the other students and to focus on\ndoing better in gym class. Anyone with information about discrimination occurring in schools may file a complaint by contacting:\nU.S. Dept. of Justice, Ci vil Rights Di vision\nEducational Opportuni ties Section\nEmail : education@us doj.g ov\nTelephone : 202-514-4092 or 877-292-3804\nTTY: 800-514-0383 U.S. Dept. of Education, Office for Civil Rights\nEmail: ocr@ed.gov Telephone: 202-453-6100 or 800-421-3481\nTDD: 800-877-8339\nLanguage Assistance: 800-USA-LEARN (800-872-5327) OCR also offers technical assistance to the public and will respond to inquiries about\nschools\u2019 obligations and the rights of students and parents under the laws that OCR enforces. For more information about the laws that CRT and OCR enforce, including those prohibiting discrimination based\non disability and sex (including gender identity and nonconformity with sex stereotypes), please visit us at\nwww.justice.gov/crt/edo and www.ed.g ov/ ocr.\n[OCR-00093]",
+      "queries": [
+        "how can i file a complaint of discrimination at school",
+        "how can you file a complaint against a teacher",
+        "what is the confinement for smu inmates",
+        "how many contact points to obtain technical assistance and report violations",
+        "what is the name of the program manager for cops"
+      ],
+      "queries_score": [
+        "3.105069",
+        "1.9038371",
+        -10.803925514221191,
+        -6.351581573486328,
+        -10.303698539733887
+      ]
+    }
+  ]
+}

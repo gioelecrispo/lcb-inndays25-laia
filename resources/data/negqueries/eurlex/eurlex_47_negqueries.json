@@ -1,0 +1,40 @@
+{
+  "doc_id": "eurlex_47",
+  "category": "eurlex",
+  "chunks": [
+    {
+      "id": "eurlex_47__0",
+      "chunk_id": "0",
+      "content": "Name: Decision (EU) 2015/1179 of the European Parliament and of the Council of 8 July 2015 on the mobilisation of the European Globalisation Adjustment Fund (EGF/2015/000 TA 2015 \u00c3\u0192\u00c2\u00a2 \u00c2\u201d Technical assistance at the initiative of the Commission)\n Type: Decision\n Subject Matter: EU finance;  cooperation policy;  employment;  budget;  economic policy;  economic conditions\n Date Published: 2015-07-18 18.7.2015 EN Official Journal of the European Union L 192/11 DECISION (EU) 2015/1179 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 8 July 2015 on the mobilisation of the European Globalisation Adjustment Fund (EGF/2015/000 TA 2015 \u00c2\u201d Technical assistance at the initiative of the Commission) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, Having regard to Regulation (EU) No 1309/2013 of the European Parliament and of the Council of 17 December 2013 on the European Globalisation Adjustment Fund (2014-2020) and repealing Regulation (EC) No 1927/2006 (1), and in particular Article 11(2) thereof, Having regard to the Interinstitutional Agreement of 2 December 2013 between the European Parliament, the Council and the Commission on budgetary discipline, on cooperation in budgetary matters and on sound financial management (2), and in particular point 13 thereof, Having regard to the proposal from the European Commission, Whereas: (1) The European Globalisation Adjustment Fund (EGF) aims to provide support for workers made redundant and self-employed persons whose activities have ceased as a result of major structural changes in world trade patterns due to globalisation, as a result of a continuation of the global financial and economic crisis, or as a result of a new global financial and economic crisis, and to assist them with their reintegration into the labour market. (2) The EGF is not to exceed a maximum annual amount of EUR 150 million (2011 prices), as laid down in Article 12 of Council Regulation (EU, Euratom) No 1311/2013 (3). (3) Regulation (EU) No 1309/2013 provides that a maximum of 0,5 % of the annual maximum amount of the EGF may be used each year for technical assistance at the initiative of the Commission. (4) The EGF should, therefore, be mobilised in order to provide the sum of EUR 630 000 for technical assistance at the initiative of the Commission, HAVE ADOPTED THIS DECISION: Article 1 For the general budget of the European Union for the financial year 2015, the European Globalisation Adjustment Fund shall be mobilised to provide the sum of EUR 630 000 in commitment and payment appropriations. Article 2 This Decision shall enter into force on the third day following that of its publication in the Official Journal of the European Union. Done at Strasbourg, 8 July 2015. For the European Parliament The President M. SCHULZ For the Council The President N. SCHMIT (1) OJ L 347, 20.12.2013, p. 855. (2) OJ C 373, 20.12.2013, p. 1. (3) Council Regulation (EU, Euratom)",
+      "queries": [
+        "cops office phone number",
+        "what is the saa audit objective",
+        "office of chief counsel internal revenue service memo number"
+      ],
+      "queries_score": [
+        -8.218704223632812,
+        -8.33919620513916,
+        -9.352168083190918
+      ]
+    },
+    {
+      "id": "eurlex_47__1",
+      "chunk_id": "1",
+      "content": "Done at Strasbourg, 8 July 2015. For the European Parliament The President M. SCHULZ For the Council The President N. SCHMIT (1) OJ L 347, 20.12.2013, p. 855. (2) OJ C 373, 20.12.2013, p. 1. (3) Council Regulation (EU, Euratom) No 1311/2013 of 2 December 2013 laying down the multiannual financial framework for the years 2014-2020 (OJ L 347, 20.12.2013, p. 884).",
+      "queries": [
+        "who was president of the european parliament?",
+        "what conditions are needed for macrofinance assistance to ukraine",
+        "who can access the cops records?",
+        "can irs conduct checks",
+        "internal revenue service memo number"
+      ],
+      "queries_score": [
+        "2.987149",
+        -10.768952369689941,
+        -10.161128044128418,
+        -11.078673362731934,
+        -9.98537540435791
+      ]
+    }
+  ]
+}
